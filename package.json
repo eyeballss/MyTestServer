@@ -1,0 +1,22 @@
+{
+  "name": "my_test_server",
+  "version": "1.0.0",
+  "description": "I'm practicing how to use nodejs and express yay!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyeballss/MyTestServer.git"
+  },
+  "author": "eyeballs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyeballss/MyTestServer/issues"
+  },
+  "homepage": "https://github.com/eyeballss/MyTestServer#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
